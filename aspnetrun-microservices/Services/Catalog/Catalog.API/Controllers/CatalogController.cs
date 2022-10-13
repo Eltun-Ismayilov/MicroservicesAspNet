@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Catalog.API.Controllers
 {
-    [Route("apiv1/[controller]")]
+    [Route("api/v1/[controller]")]
     [ApiController]
     public class CatalogController : ControllerBase
     {
